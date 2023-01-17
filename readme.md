@@ -1,0 +1,1 @@
+#use composer dump-autoload to generate autoload files

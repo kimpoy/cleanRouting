@@ -1,0 +1,13 @@
+{
+    "name": "kimpoy/clean-routing",
+    "autoload": {
+        "classmap": ["app"]
+    },
+    "authors": [
+        {
+            "name": "Kimpoy",
+            "email": "quarterofsilence1@gmail.com"
+        }
+    ],
+    "require": {}
+}
